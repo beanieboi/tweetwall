@@ -1,0 +1,43 @@
+body {
+	background-color: #E2F2FB;
+}
+
+#tweets {
+	width: 100%;
+	height: 100%;
+	position: relative;
+	display: block;
+}
+
+.tweet_image {
+	width: 200px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	background-color: #fff;
+	padding: 10px;
+	margin: 10px;
+	border: 1px solid #ccc;
+}
+
+.tweet_text {
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	background-color: #fff;
+	color: ccc;
+	border: 1px solid #ccc;
+	padding: 10px;
+	margin: 10px;
+	height: 140px;
+	width: 200px;
+}
+
+.tweet {
+	width: 250px;
+	float: left;
+	vertical-align: baseline;
+}
+
+#tweets #tweet {
+	position: absolute;
+	left: 0;
+}
