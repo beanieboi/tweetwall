@@ -1,2 +1,4 @@
 install all gems from the Gemfile, create a twitter.yml with your credentials.
 fire up twall.rb, fire up twitter_api.rb and open your browser
+
+based on: http://blog.0x82.com/2009/12/28/twitter-amqp-websocket-example-no-polling :)
