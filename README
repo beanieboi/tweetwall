@@ -1,0 +1,2 @@
+install all gems from the Gemfile, create a twitter.yml with your credentials.
+fire up twall.rb, fire up twitter_api.rb and open your browser
